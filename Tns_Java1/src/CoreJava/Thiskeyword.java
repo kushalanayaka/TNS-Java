@@ -1,4 +1,4 @@
-package javacore.com.tns;
+package CoreJava;
 
 public class Thiskeyword {
        public static void main(String args[]) {
