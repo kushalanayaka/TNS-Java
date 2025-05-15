@@ -1,4 +1,4 @@
-package javacore.com.tns;
+package CoreJava;
 
 public class demo {
 	public static void main(String args[]) {

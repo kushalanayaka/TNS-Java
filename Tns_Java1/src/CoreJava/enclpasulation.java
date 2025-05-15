@@ -1,4 +1,4 @@
-package javacore.com.tns;
+package CoreJava;
 
 public class enclpasulation {
 	public static void main(String args []) {
